@@ -1,4 +1,4 @@
-#ChauhanMahesh/Vasusen/dailypatrika/COL
+# Github.com/mkdhaka747/dailypatrika/COL
 
 from pyrogram import Client
 
