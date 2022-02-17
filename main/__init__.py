@@ -1,4 +1,4 @@
-#ChauhanMahesh/Vasusen/DroneBots/COL
+#ChauhanMahesh/Vasusen/dailypatrika/COL
 
 from pyrogram import Client
 
