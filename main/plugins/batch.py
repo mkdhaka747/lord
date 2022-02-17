@@ -79,18 +79,14 @@ async def _batch(event):
 async def run_batch(userbot, client, sender, link, _range):
     for i in range(_range):
         timer = 60
-         if 't.me/c/' in link:
-        if i < 100:
+     
+       if i < 100:
             timer = 0
         if i < 250 and i > 100:
             timer = 2
         if i < 500 and i > 250:
             timer = 4
-        if not 't.me/c/' in link:
-            if i < 300:
-                timer = 0
-            else:
-                timer = 1
+        
         try:
             await get_bulk_msg(userbot, client, sender, link, i) 
         except FloodWait as fw:
