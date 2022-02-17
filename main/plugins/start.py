@@ -1,4 +1,4 @@
-#Github.com/Vasusen-code
+#Github.com/mkdhaka747
 
 import os
 from .. import bot as Lord
