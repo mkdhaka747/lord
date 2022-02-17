@@ -1,5 +1,5 @@
 #Tg:dailypatrika/LordBots
-#Github.com/Vasusen-code
+## Github.com/mkdhaka747
 
 """
 Plugin for both public & private channels!
